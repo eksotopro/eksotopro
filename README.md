@@ -29,4 +29,4 @@
 [![Ekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksotopro&theme=midnight-purple&show_icons=true)](https://github.com/eksotopro)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksotopro&theme=midnight-purple&layout=compact)](https://github.com/eksotopro)
 
-<img src="https://github.com/DevEvil99/DevEvil99/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/eksotopro/eksotopro/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
