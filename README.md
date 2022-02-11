@@ -26,7 +26,7 @@
 <br>
 <br>
 
-[![Ekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksotopro&theme=midnight-purple&show_icons=true)](https://github.com/eksotopro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksotopro&theme=midnight-purple&layout=compact)](https://github.com/eksotopro)
+[![Ekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksotopro&theme=midnight-green&show_icons=true)](https://github.com/eksotopro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksotopro&theme=midnight-green&layout=compact)](https://github.com/eksotopro)
 
 <img src="https://raw.githubusercontent.com/eksotopro/eksotopro/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
