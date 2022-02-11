@@ -1,6 +1,6 @@
 ## Hi there, I'm Ekso! 👋
 
-<img src="https://cdn.discordapp.com/attachments/468141324906921984/911977540518826014/profile.gif" alt="https://devevil.xyz" style="max-width: 100%;"> <br><br>
+<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="https://github.com/eksotopro" style="max-width: 100%;"> <br><br>
 
 <br>
 <br>
