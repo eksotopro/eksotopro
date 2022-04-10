@@ -30,3 +30,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksotopro&theme=merko&layout=compact)](https://github.com/eksotopro)
 
 <img src="https://raw.githubusercontent.com/eksotopro/eksotopro/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/804245361894883339)](https://discord.com/users/804245361894883339)
