@@ -1,6 +1,6 @@
 ## Hi there, I'm Ekso! 👋
 
-<img src="http://24.media.tumblr.com/tumblr_ly7iywb5i01rnsqmao1_400.gif" alt="https://github.com/eksotopro" style="max-width: 100%;"> <br><br>
+<img src="https://thumbs.gfycat.com/QuerulousKnobbyCuckoo-size_restricted.gif" alt="https://github.com/eksotopro" style="max-width: 100%;"> <br><br>
 
 <br>
 <br>
