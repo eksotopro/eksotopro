@@ -1,6 +1,6 @@
 ## Hi there, I'm Ekso! 👋
 
-<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="https://github.com/eksotopro" style="max-width: 100%;"> <br><br>
+<img src="http://24.media.tumblr.com/tumblr_ly7iywb5i01rnsqmao1_400.gif" alt="https://github.com/eksotopro" style="max-width: 100%;"> <br><br>
 
 <br>
 <br>
@@ -26,8 +26,8 @@
 <br>
 <br>
 
-[![Ekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksotopro&theme=merko&show_icons=true)](https://github.com/eksotopro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksotopro&theme=merko&layout=compact)](https://github.com/eksotopro)
+[![Ekso's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksotopro&theme=dark&show_icons=true)](https://github.com/eksotopro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksotopro&theme=dark&layout=compact)](https://github.com/eksotopro)
 
 <img src="https://raw.githubusercontent.com/eksotopro/eksotopro/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
