@@ -31,4 +31,4 @@
 
 <img src="https://raw.githubusercontent.com/eksotopro/eksotopro/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/804245361894883339)](https://discord.com/users/804245361894883339)
+[![Discord Presence](https://lanyard.cnrad.dev/api/557595801682182147)](https://discord.com/users/557595801682182147)
